@@ -3,7 +3,7 @@
 ## Problem Statement
 In the English Premier League, May - July represents a lull period due to the lack of club football. What makes up for it, is the intense transfer speculation that surrounds all major player transfers today. You must have seen "Moneyball", where Peter Brand explains Billy Beane that "Its about getting things down to one number using stats the way we read them (players), we find value in player nobody else can see." Therefore, an important part of negotiations is predicting the fair market price for a player and perhaps perform EDA for this.
 
-## EDA
+## EDA (Important Ones)
 
 1. ### Players in every club and position
 
@@ -35,6 +35,9 @@ In the English Premier League, May - July represents a lull period due to the la
         - y-axis --> market value
 
     - It appears that Eden Hazard and Paul Pogba have the biggest market value, which is 75. They are followed by Alexis Sanchez on the 3rd position.
+
+4. ### Top 10 Market Value Players
+
 
 
 
